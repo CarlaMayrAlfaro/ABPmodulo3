@@ -56,3 +56,22 @@ y cómo mostrar información en el HTML con document.getElementById().innerHTML.
 ![Captura de consola](./assets/img/leccion3.png)
 
 
+## Archivo leccion4.js
+
+## Descripción del proyecto
+
+En esta lecciones se realizan las siguientes funciones:
+sumarCalorias(desayuno, almuerzo): suma las calorías de desayuno y almuerzo.
+calcularPromedio(desayuno, almuerzo): calcula el promedio de las dos comidas.
+calcularPorcentaje(totalCalorias): calcula qué porcentaje representa totalCalorias sobre una meta de 1000 kcal.
+calcularNutricion(): toma los valores de los campos #desayuno y #almuerzo, los convierte a número, verifica que sean válidos (no negativos ni NaN), llama a las funciones anteriores y muestra el resultado en #totalCalorias (con un decimal).
+Qué se practica: uso de funciones, conversión de tipos (Number()), validación básica, y mostrar resultados en la página con document.getElementById().innerHTML.
+
+## Archivo leccion5.js
+
+## Descripción del proyecto
+
+En este archivo se muestra información de alimentos usando objetos y el DOM.
+Qué hace: define un arreglo de objetos con nombre, calorias, categoria y un método descripcion(), carga un selector y botones, permite seleccionar un alimento y ver su detalle, se agregan iconos para mas interactividad
+Funciones principales: cargarSelectorAlimentos(), mostrarAlimentos5(), seleccionarAlimento(), mostrarDetalleAlimento(), obtenerNombres().
+Qué se practica: objetos y propiedades, métodos dentro de objetos, forEach, find, map, manipulación del DOM (innerHTML), y manejo de eventos simples (click / select).
