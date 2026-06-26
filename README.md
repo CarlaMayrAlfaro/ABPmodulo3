@@ -75,3 +75,4 @@ En este archivo se muestra información de alimentos usando objetos y el DOM.
 Qué hace: define un arreglo de objetos con nombre, calorias, categoria y un método descripcion(), carga un selector y botones, permite seleccionar un alimento y ver su detalle, se agregan iconos para mas interactividad
 Funciones principales: cargarSelectorAlimentos(), mostrarAlimentos5(), seleccionarAlimento(), mostrarDetalleAlimento(), obtenerNombres().
 Qué se practica: objetos y propiedades, métodos dentro de objetos, forEach, find, map, manipulación del DOM (innerHTML), y manejo de eventos simples (click / select).
+# ABPmodulo3
